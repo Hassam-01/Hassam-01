@@ -33,14 +33,14 @@ Turning ideas into interactive, scalable, and impactful web experiences.
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassam-ali&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassam-ali&theme=radical)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassam-ali&theme=radical)
 
 ---
-
+-->
 ## ☕ Let’s Connect!
 
 I'm always up for building cool stuff, collaborating on ideas, or simply having a good dev chat. Feel free to reach out!
