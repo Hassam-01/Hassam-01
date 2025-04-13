@@ -9,8 +9,7 @@ Turning ideas into interactive, scalable, and impactful web experiences.
 
 - 🎓 CS undergrad at NUST, Islamabad  
 - 💼 Full-time Software Developer @ OneScreen  
-- 🌱 Currently learning more about **AI-powered apps** and **Cloud Deployments**  
-- ⚡ Fun fact: I love roasting departments during orientations (in a good way 😄)
+- 🌱 Currently learning more about **Cloud Deployments**  
 
 ---
 
@@ -38,6 +37,7 @@ Turning ideas into interactive, scalable, and impactful web experiences.
 
 ![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassam-ali&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassam-ali&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassam-ali&theme=radical)
 
 ---
 
