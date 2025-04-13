@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hassam Ali
 
-<!--
-**Hassam-01/Hassam-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Full-Stack Developer** from Pakistan 🇵🇰  
+Turning ideas into interactive, scalable, and impactful web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 CS undergrad at NUST, Islamabad  
+- 💼 Full-time Software Developer @ OneScreen  
+- 🌱 Currently learning more about **AI-powered apps** and **Cloud Deployments**  
+- ⚡ Fun fact: I love roasting departments during orientations (in a good way 😄)
+
+---
+
+## 🔧 Tech Stack
+
+```json
+{
+  "Frontend": ["React.js", "Next.js", "Redux", "Tailwind CSS", "JavaScript", "TypeScript"],
+  "Backend": ["Node.js", "Express.js", "PostgreSQL", "MySQL", "MongoDB"],
+  "Tools": ["Vite", "Figma", "Git", "Postman", "Vercel", "Docker"]
+}
+```
+
+---
+
+## 🚀 Portfolio & Links
+
+- 🧠 **Portfolio**: [hassam-ali.vercel.app](https://hassam-ali.vercel.app)  
+- 💼 **LinkedIn**: [Hassam Ali](https://www.linkedin.com/in/hassam-ali-14681618a/)  
+- 🧰 **Projects**: Check out the pinned repos below for some of my favorite work!
+
+---
+
+## 📊 GitHub Stats
+
+![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassam-ali&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassam-ali&theme=radical)
+
+---
+
+## ☕ Let’s Connect!
+
+I'm always up for building cool stuff, collaborating on ideas, or simply having a good dev chat. Feel free to reach out!
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+
