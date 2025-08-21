@@ -9,7 +9,8 @@ Turning ideas into interactive, scalable, and impactful web experiences.
 
 - 🎓 CS undergrad at NUST, Islamabad  
 - 💼 Full-time Software Developer @ OneScreen  
-- 🌱 Currently learning more about **Cloud Deployments**  
+- 🌱 Currently learning more about **Cloud Deployments and DevOps**
+- 💼 Exploring Machine Learning  
 
 ---
 
@@ -18,8 +19,9 @@ Turning ideas into interactive, scalable, and impactful web experiences.
 ```json
 {
   "Frontend": ["React.js", "Next.js", "Redux", "Tailwind CSS", "JavaScript", "TypeScript"],
-  "Backend": ["Node.js", "Express.js", "PostgreSQL", "MySQL", "MongoDB"],
+  "Backend": ["Node.js", "Express.js", "Fastify", "NestJs", "Redis", "PostgreSQL", "MySQL", "MongoDB"],
   "Tools": ["Vite", "Figma", "Git", "Postman", "Vercel", "Docker"]
+
 }
 ```
 
@@ -30,7 +32,7 @@ Turning ideas into interactive, scalable, and impactful web experiences.
 - 🧠 **Portfolio**: [hassam-ali.vercel.app](https://hassam-ali.vercel.app)  
 - 💼 **LinkedIn**: [Hassam Ali](https://www.linkedin.com/in/hassam-ali-14681618a/)  
 - 🧰 **Projects**: Check out the pinned repos below for some of my favorite work!
-
+- 🧠 **LeetCode**: [Hassam Ali](https://leetcode.com/u/alihassam)
 ---
 
 <!-- ## 📊 GitHub Stats
