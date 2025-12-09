@@ -8,10 +8,15 @@ Turning ideas into interactive, scalable, and impactful web experiences.
 ## 👨‍💻 About Me
 
 - 🎓 CS undergrad at NUST, Islamabad  
-- 💼 Full-time Software Developer @ OneScreen  
 - 🌱 Currently learning more about **Cloud Deployments and DevOps**
 - 💼 Exploring Machine Learning  
 
+---
+
+## Experience
+
+- 💼 Full stack Intern @ Nouseen Solutions (present)
+- 💼 Full-time Software Developer @ OneScreen  
 ---
 
 ## 🔧 Tech Stack
