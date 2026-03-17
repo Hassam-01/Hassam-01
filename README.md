@@ -15,8 +15,9 @@ Turning ideas into interactive, scalable, and impactful web experiences.
 
 ## Experience
 
-- 💼 Full stack Intern @ Nouseen Solutions (present)
-- 💼 Full-time Software Developer @ OneScreen  
+- 💼 Backend Developer (.NET, AWS, DevOps) @ Kheylo [March 2026 - Present]
+- 💼 Full stack Intern @ Nouseen Solutions [Dec 2025 - March 2026]
+- 💼 Full-time Software Developer @ OneScreen  [Feb 2025 - May 2025]
 ---
 
 ## 🔧 Tech Stack
