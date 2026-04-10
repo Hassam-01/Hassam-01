@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.svg" alt="Hassam Ali — Full Stack Developer · Cloud & DevOps" width="100%"/>
-</p>
-
 # Hi, I'm Hassam Ali
 
 **Full Stack Developer · Cloud & DevOps Enthusiast · Backend Engineer**
@@ -10,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws">
   <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20Node.js-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/hassam-ali?style=for-the-badge&logo=github&color=blue&label=Followers">
+  <img src="https://img.shields.io/github/followers/hassam-01?style=for-the-badge&logo=github&color=blue&label=Followers">
 </p>
 
 I build scalable, production-ready applications — from modern full-stack web apps to backend systems and cloud-powered architectures. I focus on writing clean, efficient code and designing systems that scale.
