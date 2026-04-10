@@ -11,21 +11,32 @@
   <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws">
   <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20Node.js-green?style=for-the-badge">
   <img src="https://img.shields.io/github/followers/hassam-ali?style=for-the-badge&logo=github&color=blue&label=Followers">
-  <img src="https://img.shields.io/github/last-commit/hassam-ali/hassam-ali?style=for-the-badge&logo=github&color=brightgreen&label=Last%20Commit">
 </p>
 
 I build scalable, production-ready applications — from modern full-stack web apps to backend systems and cloud-powered architectures. I focus on writing clean, efficient code and designing systems that scale.
 
 ---
 
-## 🚀 Skills
+## Experience
+
+- **Backend Developer (.NET, AWS, DevOps)** — *Kheylo*  
+  March 2026 – Present  
+
+- **Full-Stack Intern** — *Nouseen Solutions*  
+  Dec 2025 – March 2026  
+
+- **Software Developer** — *OneScreen Solutions*  
+  Feb 2025 – May 2025  
+
+
+---
+
+## Skills
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
@@ -52,40 +63,19 @@ I build scalable, production-ready applications — from modern full-stack web a
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-000000?style=for-the-badge&logo=tekton&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE5000?style=for-the-badge&logo=argo&logoColor=white)
 
 - AWS Cloud Fundamentals  
 - Architecting Solutions on AWS  
 
 ---
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-## 💼 Experience
-
-- 💼 **Backend Developer (.NET, AWS, DevOps)** — *Kheylo*  
-  📅 March 2026 – Present  
-
-- 💼 **Full-Stack Intern** — *Nouseen Solutions*  
-  📅 Dec 2025 – March 2026  
-
-- 💼 **Software Developer** — *OneScreen*  
-  📅 Feb 2025 – May 2025  
-
----
-
-## 🔭 Current Focus
+## Current Focus
 
 - Scalable backend systems  
 - AWS cloud architecture  
-- System design & performance  
-- AI-powered applications  
+- System design & performance
 
 ---
 
