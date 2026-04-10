@@ -1,21 +1,69 @@
-# 👋 Hi, I'm Hassam Ali  
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems;Turning+Ideas+into+Reality" />
+  <img src="./banner.svg" alt="Hassam Ali — Full Stack Developer · Cloud & DevOps" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassam-ali&label=Profile%20Views&color=0e75b6&style=flat" />
+# Hi, I'm Hassam Ali
+
+**Full Stack Developer · Cloud & DevOps Enthusiast · Backend Engineer**
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws">
+  <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20Node.js-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/hassam-ali?style=for-the-badge&logo=github&color=blue&label=Followers">
+  <img src="https://img.shields.io/github/last-commit/hassam-ali/hassam-ali?style=for-the-badge&logo=github&color=brightgreen&label=Last%20Commit">
 </p>
+
+I build scalable, production-ready applications — from modern full-stack web apps to backend systems and cloud-powered architectures. I focus on writing clean, efficient code and designing systems that scale.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Skills
 
-- 🎓 CS Undergraduate @ NUST, Islamabad  
-- 💼 Backend Developer @ **Kheylo**  
-- ☁️ Learning **Cloud Architecture & DevOps**  
-- 🚀 Passionate about building **scalable & impactful systems**  
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+- REST APIs · Authentication · System Design · Scalable Architectures
+
+---
+
+### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+- AWS Cloud Fundamentals  
+- Architecting Solutions on AWS  
+
+---
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -32,90 +80,25 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🔭 Current Focus
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,dotnet" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel" />
-</p>
-
-📚 **Courses & Certifications**
-- AWS Cloud Fundamentals  
-- Architecting Solutions on AWS  
+- Scalable backend systems  
+- AWS cloud architecture  
+- System design & performance  
+- AI-powered applications  
 
 ---
 
-## 📊 GitHub Analytics
+## 📫 Contact
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | https://hassam-ali.vercel.app |
+| 💼 LinkedIn | https://www.linkedin.com/in/hassam-ali-14681618a/ |
+| 🧠 LeetCode | https://leetcode.com/u/alihassam |
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassam-ali&show_icons=true&theme=radical&hide_border=true" />
+  <i>"Building scalable systems that actually solve real problems."</i>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hassam-ali&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassam-ali&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🚀 Portfolio & Profiles
-
-<p align="center">
-  <a href="https://hassam-ali.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.linkedin.com/in/hassam-ali-14681618a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/alihassam">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
-
----
-
-## 🧠 Current Focus
-
-- ⚡ Scalable backend architectures  
-- ☁️ Advanced AWS & cloud systems  
-- 🧩 System design & performance optimization  
-- 🤖 AI-powered applications  
-
----
-
-## 🤝 Let’s Connect
-
-I’m open to:
-- Collaborations  
-- Startup ideas  
-- Tech discussions  
-
----
-
-## ⚡ Fun Touch
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
