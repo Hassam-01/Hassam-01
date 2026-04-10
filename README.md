@@ -1,59 +1,121 @@
-# 👋 Hi there, I'm Hassam Ali
+# 👋 Hi, I'm Hassam Ali  
 
-A passionate **Full-Stack Developer** from Pakistan 🇵🇰  
-Turning ideas into interactive, scalable, and impactful web experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Systems;Turning+Ideas+into+Reality" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassam-ali&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 CS undergrad at NUST, Islamabad  
-- 🌱 Currently learning more about **Cloud Deployments and DevOps**
-- 💼 Exploring Machine Learning  
+- 🎓 CS Undergraduate @ NUST, Islamabad  
+- 💼 Backend Developer @ **Kheylo**  
+- ☁️ Learning **Cloud Architecture & DevOps**  
+- 🚀 Passionate about building **scalable & impactful systems**  
 
 ---
 
-## Experience
+## 💼 Experience
 
-- 💼 Backend Developer (.NET, AWS, DevOps) @ Kheylo [March 2026 - Present]
-- 💼 Full stack Intern @ Nouseen Solutions [Dec 2025 - March 2026]
-- 💼 Full-time Software Developer @ OneScreen  [Feb 2025 - May 2025]
----
+- 💼 **Backend Developer (.NET, AWS, DevOps)** — *Kheylo*  
+  📅 March 2026 – Present  
 
-## 🔧 Tech Stack
+- 💼 **Full-Stack Intern** — *Nouseen Solutions*  
+  📅 Dec 2025 – March 2026  
 
-```json
-{
-  "Frontend": ["React.js", "Next.js", "Redux", "Tailwind CSS", "JavaScript", "TypeScript"],
-  "Backend": ["Node.js", "Express.js", "Fastify", "NestJs", "Redis", "PostgreSQL", "MySQL", "MongoDB"],
-  "Tools": ["Vite", "Figma", "Git", "Postman", "Vercel", "Docker"]
-
-}
-```
+- 💼 **Software Developer** — *OneScreen*  
+  📅 Feb 2025 – May 2025  
 
 ---
 
-## 🚀 Portfolio & Links
+## 🚀 Tech Stack
 
-- 🧠 **Portfolio**: [hassam-ali.vercel.app](https://hassam-ali.vercel.app)  
-- 💼 **LinkedIn**: [Hassam Ali](https://www.linkedin.com/in/hassam-ali-14681618a/)  
-- 🧰 **Projects**: Check out the pinned repos below for some of my favorite work!
-- 🧠 **LeetCode**: [Hassam Ali](https://leetcode.com/u/alihassam)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel" />
+</p>
+
+📚 **Courses & Certifications**
+- AWS Cloud Fundamentals  
+- Architecting Solutions on AWS  
+
 ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassam-ali&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hassam-ali&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassam-ali&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassam-ali&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hassam-ali&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassam-ali&theme=react-dark&hide_border=true" />
+</p>
 
 ---
--->
-## ☕ Let’s Connect!
 
-I'm always up for building cool stuff, collaborating on ideas, or simply having a good dev chat. Feel free to reach out!
+## 🚀 Portfolio & Profiles
+
+<p align="center">
+  <a href="https://hassam-ali.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/hassam-ali-14681618a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/alihassam">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+## 🧠 Current Focus
 
+- ⚡ Scalable backend architectures  
+- ☁️ Advanced AWS & cloud systems  
+- 🧩 System design & performance optimization  
+- 🤖 AI-powered applications  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to:
+- Collaborations  
+- Startup ideas  
+- Tech discussions  
+
+---
+
+## ⚡ Fun Touch
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
